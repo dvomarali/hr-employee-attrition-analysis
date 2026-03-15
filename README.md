@@ -67,3 +67,12 @@ hr-employee-attrition-analysis
 ## Purpose of the Project
 This project was created as part of a **Data Analyst portfolio** to demonstrate skills in data exploration, visualization, and insight generation using Python.
 
+## Visualizations
+
+### Employee Attrition Distribution
+
+![Attrition Chart](attrition_chart.png)
+
+### Correlation Heatmap
+
+![Heatmap](heatmap.png)
