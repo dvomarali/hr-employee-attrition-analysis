@@ -58,3 +58,12 @@ Some important insights discovered from the analysis include:
 - Younger employees tend to leave the company more frequently.
 
 ## Project Structure
+hr-employee-attrition-analysis
+│
+├── hr_attrition_analysis.ipynb
+├── hr_dataset.csv
+└── README.md
+
+## Purpose of the Project
+This project was created as part of a **Data Analyst portfolio** to demonstrate skills in data exploration, visualization, and insight generation using Python.
+
