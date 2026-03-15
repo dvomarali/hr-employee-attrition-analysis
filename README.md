@@ -1,7 +1,7 @@
 # HR Employee Attrition Analysis
 
 ## Project Overview
-This project analyzes employee data to understand the key factors that contribute to employee attrition. The goal of the analysis is to identify patterns and insights that can help organizations reduce employee turnover and improve retention strategies.
+This analysis focuses on identifying the main factors that influence employee turnover using exploratory data analysis and data visualization techniques.
 
 ## Dataset
 The dataset contains HR employee information including:
@@ -49,15 +49,19 @@ The project includes multiple visualizations such as:
 These visualizations help identify patterns and relationships between employee characteristics and attrition.
 
 ## Key Insights
-Some important insights discovered from the analysis include:
 
-- Approximately **16% of employees left the company**.
-- Employees working **overtime** are more likely to leave the company.
-- Certain **departments show higher attrition rates** than others.
+- Approximately **16% of employees left the company**, indicating a noticeable attrition rate.
+
+- Employees working **overtime** are significantly more likely to leave the company.
+
 - Lower **monthly income** appears to be associated with higher attrition.
+
+- Certain **departments show higher attrition rates** than others.
+
 - Younger employees tend to leave the company more frequently.
 
 ## Project Structure
+
 hr-employee-attrition-analysis
 │
 ├── hr_attrition_analysis.ipynb
@@ -67,7 +71,7 @@ hr-employee-attrition-analysis
 ## Purpose of the Project
 This project was created as part of a **Data Analyst portfolio** to demonstrate skills in data exploration, visualization, and insight generation using Python.
 
-## Visualizations
+## Example Visualizations
 
 ### Employee Attrition Distribution
 
