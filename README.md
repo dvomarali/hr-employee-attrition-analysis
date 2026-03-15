@@ -81,6 +81,6 @@ This project was created as part of a **Data Analyst portfolio** to demonstrate 
 
 ![Heatmap](heatmap.png)
 
-### BarChart 
+### BarChart Attrition
 
 ![barchart](barchart.png)
